@@ -1,0 +1,12 @@
+footer{
+    background-color: rgb(122, 122, 122);
+    padding: 20px;
+    color: aliceblue;
+    text-align: center;
+}
+a:hover {
+   color: white;
+  }
+  body{
+      margin: 0;
+  }
